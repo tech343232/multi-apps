@@ -24,7 +24,9 @@ trae, en palabras simples. Si las herramientas de AXIE no están disponibles, di
 buscar ofertas.
 
 ## Paso 1 · AXIE busca la oferta
-Sigue el método de AXIE (su propia skill): primero el **país** (sugiere Brasil), luego el **modo** (Express, Deep o Prueba), y
+Sigue el método de AXIE (su propia skill): primero el **país** (sugiere Brasil; solo Brasil y Latinoamérica. Nunca
+ofrezcas USA ni Europa: si los pide, dile que aún no están disponibles y que próximamente posiblemente se incluirán), luego
+el **canal de venta** (Landing, WhatsApp o Combinación), luego el **modo** (Express, Deep o Prueba), y
 mina con `axie_minar_ofertas` / `axie_minar_continuar` hasta mostrar el panel con `axie_panel_ofertas`. Guarda el `mina_id`.
 
 ## Paso 2 · El usuario elige una oferta
